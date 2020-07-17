@@ -7,7 +7,7 @@
 
 #### For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
 
-###### ======================================================================================
+#
 
 #### Escreva um programa curto que imprima cada número de 1 a 100 em uma nova linha.
 
@@ -17,7 +17,7 @@
 
 #### Para números múltiplos de 3 e 5, imprima "FizzBuzz" em vez do número.
 
-###### ======================================================================================
+#
 
 # Result / Resultado
 
